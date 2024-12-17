@@ -1,4 +1,4 @@
-//Grupo 5 Mateo Sack, Kyara Lopez, Gianluca Perrone y Rocco Mauro
+//Grupo 4 Matias Cambiasso, Gabriel de Los Santos, Gabriel Mendelovich
 #include <ArduinoJson.h>
 
 
@@ -16,13 +16,13 @@ FirebaseAuth auth;
 String uid;
 
 
-#define USER_EMAIL "lospibes@gmail.com"
-#define USER_PASSWORD "Fortnite123"
+#define USER_EMAIL "firebase@gmail.com"
+#define USER_PASSWORD "pepito"
 
 
 #include <WiFi.h>
-const char* ssid = "ORT-IoT";
-const char* password = "OrtIOT24";
+const char* ssid = "AndroidAP";
+const char* password = "douu7733";
 
 
 #include <Wire.h>
